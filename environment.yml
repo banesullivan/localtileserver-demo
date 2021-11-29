@@ -1,0 +1,21 @@
+name: pyvista-env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - numpy
+  - click
+  - flask>=2.0.0
+  - Flask-Caching
+  - GDAL
+  - requests
+  - scooby
+  - furl
+  - pytest
+  - pytest-cov
+  - ipyleaflet
+  - shapely
+  - folium
+  - pip
+  - pip:
+      - localtileserver
