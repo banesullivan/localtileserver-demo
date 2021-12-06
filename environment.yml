@@ -18,4 +18,4 @@ dependencies:
   - folium
   - pip
   - pip:
-      - https://github.com/banesullivan/localtileserver/archive/local-tile-layer.zip
+      - localtileserver>=0.3.6
