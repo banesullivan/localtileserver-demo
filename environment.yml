@@ -1,4 +1,4 @@
-name: pyvista-env
+name: localtileserver-env
 channels:
   - conda-forge
 dependencies:
