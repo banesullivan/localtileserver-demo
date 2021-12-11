@@ -16,6 +16,5 @@ dependencies:
   - ipyleaflet
   - shapely
   - folium
+  - localtileserver>=0.3.8
   - pip
-  - pip:
-      - localtileserver>=0.3.6
