@@ -1,4 +1,4 @@
-FROM ghcr.io/banesullivan/localtileserver-jupyter:latest
+FROM ghcr.io/banesullivan/localtileserver-jupyter:0.4.2
 
 COPY . ${HOME}
 WORKDIR ${HOME}
