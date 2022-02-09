@@ -1,0 +1,1 @@
+python -c "import os;os.environ['LOCALTILESERVER_CLIENT_PREFIX'] = f\"{os.environ['JUPYTERHUB_SERVICE_PREFIX']}/proxy/{{port}}\""
