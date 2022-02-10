@@ -1,0 +1,2 @@
+localtileserver[colormaps,jupyter]==0.4.3
+shapely
