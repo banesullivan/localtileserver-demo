@@ -1,2 +1,3 @@
+--find-links https://girder.github.io/large_image_wheels GDAL
 localtileserver[colormaps,jupyter]==0.4.3
 shapely
