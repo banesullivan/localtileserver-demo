@@ -1,4 +1,4 @@
 --find-links https://girder.github.io/large_image_wheels GDAL
-localtileserver[colormaps,jupyter]==0.5.4
+localtileserver[colormaps,jupyter]==0.5.7
 shapely
 rasterio
