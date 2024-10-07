@@ -1,4 +1,4 @@
-localtileserver[colormaps,jupyter,helpers]==0.10.3
+localtileserver[colormaps,jupyter,helpers]==0.10.4
 shapely
 rasterio
 rio-cogeo
